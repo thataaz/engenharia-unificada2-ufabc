@@ -10,10 +10,8 @@ Aqui teremos o link para o resumo do Projeto
 [Documentação](https://linktodocumentation)
 
 ## :computer:	Tech Stack 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-**Client:** 
-
-**Server:** 
 
 
 ## :busts_in_silhouette: Contribuidores 
