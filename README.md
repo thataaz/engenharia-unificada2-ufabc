@@ -18,6 +18,7 @@ Aqui teremos o link para o resumo do Projeto
 
 - [@thataaz](https://www.github.com/thataaz)
 - [@GabrielGiuliano](https://github.com/Gabriel-Giuliano)
+- [@Cristianobam](https://github.com/Cristianobam)
 
 ## :pushpin: Apêndice
 
