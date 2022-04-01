@@ -102,7 +102,8 @@ def plot_time_series(start_date, end_date, pollutant, station):
     
 
 def app():
-    st.title("Visulização dos Poluentes")
+    st.title("Visualização dos Poluentes")
+    
     st.header("Distribuição de Dados")
     row0_1, row0_2 = st.columns(2)
     with row0_1:
